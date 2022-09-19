@@ -1,0 +1,24 @@
+.bg{
+    background-image: url(../../assets/img/doctors/slider03.jpg);
+    height: 600px;
+    lighting-color: blanchedalmond;
+}
+    .logo{
+        background:url("../../assets/img/doctors/doc.jpg.png");
+
+    }
+
+
+.container{
+    height: auto;
+    background-color:rosybrown;
+    width: 700px;
+    background-image: url(../../assets/img/doctors/doctors-1.jpg);
+  border-color: rgb(214, 134, 37);  
+}
+ .contact-image{
+    width: 200px;
+    height: 100px;
+    border-radius: 500px;
+} 
+

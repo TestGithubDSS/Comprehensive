@@ -1,0 +1,17 @@
+
+.container{
+    height: auto;
+    background-color: #c1bab8c4;
+    background-image: url(../../assets/img/gallery/D145_296_072_1200.jpg);
+    width: 900px;
+  
+}
+
+.bg{
+    color: rgb(241, 255, 45);
+    text-decoration: rgb(144, 189, 107);
+  
+font-weight: bolder;
+background: url(../../assets/img/gallery/gallery-1.jpg);
+}
+

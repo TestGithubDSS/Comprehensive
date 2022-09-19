@@ -1,0 +1,10 @@
+.container{
+    background-image: url(../../assets/img/doctors/hospital-building-modern-parking-lot-59693686.jpg);
+}
+
+.mask{
+    color:rgb(139, 28, 0);
+    font-weight: bold;
+    padding-bottom: 2px;
+    font-size: 21px;
+}
